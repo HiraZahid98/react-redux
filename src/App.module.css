@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.para{
+    box-shadow: 0 2px 2px #ccc;
+    width: 20rem;
+    height: 5rem;
+    text-align: center;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: rgb(228, 235, 235);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wdbutton{
+    color: wheat;
+    background-color: palevioletred;
+    width: 10rem;
+    height: 3rem;
+    margin: 2rem;
+    padding: 2rem;
+    font-size: 20px;
+}
+.dpbutton{
+    color: wheat;
+    background-color: lightcoral;
+    width: 10rem;
+    height: 3rem;
+    margin: 2rem;
+    padding: 2rem;
+    font-size: 20px;
+}
